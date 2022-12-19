@@ -24,6 +24,7 @@ body {
 }
 
 .logo {
+  font-family: 'Raleway', sans-serif;
   text-decoration: none;
   font-weight: 800;
   font-size: 18px;
@@ -32,7 +33,6 @@ body {
 }
 
 .accent {
-  font-family: 'Raleway', sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.16;
@@ -176,7 +176,8 @@ body {
 .footer {
   background: var(--navy-text-color);
 }
-.logo-footer {
+.logo {
+  font-family: 'Raleway', sans-serif;
   text-decoration: none;
   font-weight: 800;
   font-size: 18px;
@@ -185,7 +186,6 @@ body {
 }
 
 .accent-footer {
-  font-family: 'Raleway', sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.67;
